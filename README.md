@@ -2,7 +2,7 @@
 Udacity Data Scientist Nanodegree - Recommendation for IBM
 
 ## Data source
- 
+(TBD)
  
 ## Python libraries used:
    python3
@@ -10,3 +10,10 @@ Udacity Data Scientist Nanodegree - Recommendation for IBM
 
 ## Purpose:
  
+
+
+## Output:
+
+## Conclusion:
+
+
