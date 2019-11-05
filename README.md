@@ -33,8 +33,18 @@ Two data tables to be used in this project, which were provided:
 
 
 ## Output:
-
-
+(see the .html file)
  
 ## Conclusion:
+Observed Trending:
+The training accuracy gets improved along with the increase of number of latent features, while the testing accuracy is on opposite direction but very slightly.
+200 latent features might be the best for both population.
+
+Statistical drawback:
+The testing dataset is too small (20 out of 5993). Therefore, it is not sufficient to conclude the good prediction of the model. 
+The training accuracy is >99%, indicating the overfitting of the model.
+
+Conclusion:
+SVD by self is not a good recommendation engine in the given case. Additional recommendation agorithem should be applied 
+(such as Content based or rating based recommendation, or collaborating filtering). Also, an A/B testing should also be applied for each engine.
 
